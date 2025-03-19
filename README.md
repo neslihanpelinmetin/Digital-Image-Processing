@@ -1,4 +1,4 @@
-# Digital-Image-Processing - CMPE 362
+# Digital Image Processing - CMPE 362
 
 ## 🎯 Overview
 
