@@ -38,6 +38,7 @@ This repository contains lecture materials, assignments, and quizzes from the Di
  │   ├── 📂 Homework-2
  │   ├── 📂 Homework-3
  │   ├── 📂 Homework-4
+ ├── 📂 Hands on Activities
  ├── 📂 Quizzes
  ├── 📄 CMPE362_Syllabus_Spring2023.pdf
  ├── 📄 README.md
