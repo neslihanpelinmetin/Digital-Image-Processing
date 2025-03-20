@@ -44,5 +44,5 @@ This assignment focuses on **template matching** and **image filtering in the fr
   - Discussion of how parameter variations impact the results
  
 ## 📄 Documentation
-**Assignment PDF:** [CMPE362_CS563_HW2.pdf](./Homework-2/CMPE362_CS563_HW2.pdf)  
-**Report:** [Npelin_Metin_CMPE_362_Hw2.pdf](./Homework-2/Npelin_Metin_CMPE_362_Hw2.pdf)
+**Assignment PDF:** [CMPE362_CS563_HW2.pdf](./CMPE362_CS563_HW2.pdf)  
+**Report:** [Npelin_Metin_CMPE_362_Hw2.pdf](./Npelin_Metin_CMPE_362_Hw2.pdf)
