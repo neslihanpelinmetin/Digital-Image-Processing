@@ -28,7 +28,7 @@ This assignment focuses on **template matching** and **image filtering in the fr
 
 ## ⚙️ Implementation Requirements
 
-- Use Python with OpenCV and NumPy.
+- Use **Python** with **OpenCV** and **NumPy**.
 - Implement all functions manually without using built-in template matching functions.
 - Shift frequency domain representations to the center before visualization.
 
