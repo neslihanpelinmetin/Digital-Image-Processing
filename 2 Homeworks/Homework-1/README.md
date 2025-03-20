@@ -1,8 +1,8 @@
 # Digital Image Processing – Assignment 1
 
-**Course: CMPE 362 / CS 563 – TED University**
-**Term: Spring 2023**
-**Due Date: April 9th, 2023**
+**Course:** CMPE 362 / CS 563 – TED University  
+**Term:** Spring 2023  
+**Due Date:** April 9th, 2023  
 
 ## Overview
 
