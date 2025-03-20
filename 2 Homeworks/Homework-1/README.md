@@ -37,5 +37,5 @@ This assignment focuses on image editing techniques, including foreground-backgr
   - Discussion on how parameter variations impact the output
 
 ## 📄 Documentation
- **Assignment PDF:** [CMPE362_CS563_HW1.pdf](./Homework-1/CMPE362_CS563_HW1.pdf)  
- **Report:** [Neslihan_Pelin_Metin_CMPE_362_Hw1.pdf](./Homework-1/NeslihanPelinMetin_CMPE_362_Hw1.pdf)
+ **Assignment PDF:** [CMPE362_CS563_HW1.pdf](./CMPE362_CS563_HW1.pdf)  
+ **Report:** [Neslihan_Pelin_Metin_CMPE_362_Hw1.pdf](./NeslihanPelinMetin_CMPE_362_Hw1.pdf)
