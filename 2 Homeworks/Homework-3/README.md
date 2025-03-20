@@ -44,7 +44,7 @@ This assignment focuses on **plant image segmentation**, **leaf detection**, and
 
 ## 📄 Documentation
 
-**Assignment PDF:** [CMPE362_CS563_HW3.pdf](./Homework-3/CMPE362_CS563_HW3.pdf)  
-**Report:** [NpelinMetin_CMPE_362_Hw3R.pdf](./Homework-3/NpelinMetin_CMPE_362_Hw3R.pdf)  
+**Assignment PDF:** [CMPE362_CS563_HW3.pdf](./CMPE362_CS563_HW3.pdf)  
+**Report:** [NpelinMetin_CMPE_362_Hw3R.pdf](./NpelinMetin_CMPE_362_Hw3R.pdf)  
 
 🌿 Dataset available at [Plant Phenotyping Dataset](https://www.plant-phenotyping.org/datasets-home).
