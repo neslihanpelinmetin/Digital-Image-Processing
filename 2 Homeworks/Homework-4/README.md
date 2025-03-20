@@ -47,8 +47,8 @@ This assignment focuses on **image stitching**, where multiple overlapping image
 
 ## 📄 Documentation
 
-**Assignment PDF:** [CMPE362_CS563_HW4.pdf](./Homework-4/CMPE362_CS563_HW4.pdf)  
-**Report Part 1:** [NpelinMetin_C362Hw4PaR-1.pdf](./Homework-4/NpelinMetin_C362Hw4PaR-1.pdf)  
-**Report Part 2:** [NpelinMetin_C362Hw4PaR-2.pdf](./Homework-4/NpelinMetin_C362Hw4PaR-2.pdf)  
-**Report Part 3:** [NpelinMetin_C362Hw4PaR-3.pdf](./Homework-4/NpelinMetin_C362Hw4PaR-3.pdf)  
+**Assignment PDF:** [CMPE362_CS563_HW4.pdf](./CMPE362_CS563_HW4.pdf)  
+**Report Part 1:** [NpelinMetin_C362Hw4PaR-1.pdf](./NpelinMetin_C362Hw4PaR-1.pdf)  
+**Report Part 2:** [NpelinMetin_C362Hw4PaR-2.pdf](./NpelinMetin_C362Hw4PaR-2.pdf)  
+**Report Part 3:** [NpelinMetin_C362Hw4PaR-3.pdf](./NpelinMetin_C362Hw4PaR-3.pdf)  
 
