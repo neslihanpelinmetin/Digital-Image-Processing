@@ -11,14 +11,14 @@ This assignment focuses on image editing techniques, including foreground-backgr
 ## 🚀 Tasks
 
 ### **Part 1: Foreground-Background Image Composition**
-- Select a **foreground image** from the **MSRA10K dataset** along with its binary mask.
-- Choose a **background image** (any image is acceptable).
-- Implement a function `combineForegroundBackground` to overlay the foreground image onto the background while preserving object integrity.
+1. Select a **foreground image** from the **MSRA10K dataset** along with its binary mask.
+2. Choose a **background image** (any image is acceptable).
+3. Implement a function `combineForegroundBackground` to overlay the foreground image onto the background while preserving object integrity.
 
 ### **Part 2: Image Enhancement**
-- Implement a **Gaussian smoothing function** for background blurring.
-- Implement an **unsharp masking function** to sharpen the foreground.
-- Combine the processed foreground and background to observe the effects.
+1. Implement a **Gaussian smoothing function** for background blurring.
+2. Implement an **unsharp masking function** to sharpen the foreground.
+3. Combine the processed foreground and background to observe the effects.
 
 ## ⚙️ Implementation Requirements
 
